@@ -1,0 +1,183 @@
+{
+  "categorias": [
+    {
+      "titulo": "Musicas",
+      "link": "",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Divirta-se temos diversos tipos de videos para você assistir :)",
+          "url": "https://www.youtube.com/watch?v=PbP-aIe51Ek"
+        },
+        {
+          "titulo": "Post Malone",
+          "url": "https://www.youtube.com/watch?v=MRyLC2M1K2w"
+        },
+        {
+          "titulo": "Draft Punk",
+          "url": "https://www.youtube.com/watch?v=5NV6Rdv1a3I"
+        },
+        {
+          "titulo": "Maroon 5",
+          "url": "https://www.youtube.com/watch?v=09R8_2nJtjg"
+        },
+        {
+          "titulo": "Pink Floyd",
+          "url": "https://www.youtube.com/watch?v=_FrOQC-zEog"
+        },
+        {
+          "titulo": "Public",
+          "url": "https://www.youtube.com/watch?v=nLnp0tpZ0ok"
+        },
+        {
+          "titulo": "The Neighbourhood",
+          "url": "https://www.youtube.com/watch?v=GCdwKhTtNNw"
+        },
+        {
+          "titulo": "OneRepublic",
+          "url": "https://www.youtube.com/watch?v=hT_nvWreIhg"
+        }        
+      ]
+    },
+    {
+      "titulo": "Animes",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Os Cavaleiros do Zodíaco",
+          "url": "https://www.youtube.com/watch?v=BLwi7jR41bc&t=18s"
+        },
+        {
+          "titulo": "The Seven Deadly Sins",
+          "url": "https://www.youtube.com/watch?v=wxcvbL6o55M"
+        },
+        {
+          "titulo": "ONE PIECE ",
+          "url": "https://www.youtube.com/watch?v=S8_YwFLCh4U"
+        },
+        {
+          "titulo": "JOJO'S BIZARRE ADVENTURE",
+          "url": "https://www.youtube.com/watch?v=fvSKmPdD2a4"
+        }, 
+        {
+          "titulo": "Pokémon",
+          "url": "https://www.youtube.com/watch?v=J_bjYRCwdxg"
+        }
+      ]
+    },
+    {
+      "titulo": "Data Science e Inteligência Artificial",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Teste de Turing",
+          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        },
+        {
+          "titulo": "O que é Data Science?",
+          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        },
+        {
+          "titulo": "Melhor forma de aprender Python",
+          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        },
+        {
+          "titulo": "Como ingressar no mercado de Data Science?",
+          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Ex Machina",
+          "url": "https://www.youtube.com/watch?v=EoQuVnKhxaM"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
